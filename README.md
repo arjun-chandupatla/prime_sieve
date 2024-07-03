@@ -1,3 +1,3 @@
-# prime_sieve
+# Simple Number Tools
 
-Return list of prime numbers less than a certain number iteratively using the sieve of Eratosthenes
+Set of very simple functions that generate certain sequences of numbers
