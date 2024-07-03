@@ -1,3 +1,5 @@
+# iteratively generate list of primes less than a certain number
+
 from math import sqrt
 
 def sieve(num):
