@@ -1,14 +1,11 @@
 # iteratively generate list of primes less than a certain number
 
-from math import sqrt
-
 def sieve(num):
     primes = []
     numArray = range(2, num + 1)
     for i in numArray:
         try:
             isPrime = True
-            n = 0
             for p in primes:
                 if i < p^2:
                     break
