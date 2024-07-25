@@ -1,3 +1,4 @@
+# selection sorting algorithm
 def selection_sort(l):
     for i in range(len(l)):
         for j in range(i, len(l)):
